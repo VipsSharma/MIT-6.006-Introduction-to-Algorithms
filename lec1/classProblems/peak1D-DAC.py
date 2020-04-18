@@ -5,13 +5,12 @@ import time
 
 start_time = time.time()
 
-#n = int(input("Enter number of elements : "))
+n = int(input("Enter number of elements : "))
 
 arr=[]
 
 for i in range(0, 1000000):
-	#ele = int(input())
-	ele = i
+	ele = int(input())
 	arr.append(ele)
 
 def peak(a,n):
