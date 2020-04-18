@@ -10,7 +10,7 @@ arr = []
 
 
 for i in range(0, n): 
-	#ele = int(input()) 
+	ele = int(input()) 
 	arr.append(ele)
 
 

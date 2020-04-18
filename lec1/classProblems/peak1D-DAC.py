@@ -15,8 +15,6 @@ for i in range(0, n):
 
 def peak(a,n):
 	tmp=a
-	#print(tmp)
-	#print("Peak fun called with arr "+str(arr)+"  n is "+str(n))
 	if ( n>1 and tmp[math.floor(n/2)] < tmp[math.floor(n/2)-1] ):
 		tmp=tmp[:math.floor(n/2)]
 		peak(tmp,len(tmp))
