@@ -9,7 +9,7 @@ n = int(input("Enter number of elements : "))
 
 arr=[]
 
-for i in range(0, 1000000):
+for i in range(0, n):
 	ele = int(input())
 	arr.append(ele)
 
