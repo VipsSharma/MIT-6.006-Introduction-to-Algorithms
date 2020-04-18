@@ -7,7 +7,7 @@ Which had two parts :
 
 ## PEAK FINDER PROBLEM
 
-Find a peak in given set of input if exists where an element is a peak if it is greater then or equal to it's neighbour elements
+Find a peak in given set of input if exists where an element is a peak if it is greater than or equal to it's neighbour elements
 
 
 ### Solutions for 1D Peak Finder Problem
