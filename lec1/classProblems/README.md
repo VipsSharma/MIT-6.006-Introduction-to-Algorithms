@@ -1,13 +1,13 @@
 # Class Programs for Lecture 1
 
-Lecture 1 was mainly focused aroung “Peak finding” problem.
+Lecture 1 was mainly focused on **“Peak finding”** problem.
 Which had two parts : 
 - 1D Peak Finder Problem
 - 2D Peak Finder Problem
 
 ## PEAK FINDER PROBLEM
 
-Find a peak in given set of input if exists where an element is a peak if it is greater then or equal to it's neighbour elements
+Find a peak in given set of input if exists where an element is a peak if it is greater than or equal to it's neighbour elements
 
 
 ### Solutions for 1D Peak Finder Problem
