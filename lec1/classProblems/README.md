@@ -1,6 +1,6 @@
 # Class Programs for Lecture 1
 
-Lecture 1 was mainly focused on “Peak finding” problem.
+Lecture 1 was mainly focused on **“Peak finding”** problem.
 Which had two parts : 
 - 1D Peak Finder Problem
 - 2D Peak Finder Problem
