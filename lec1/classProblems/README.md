@@ -18,10 +18,11 @@ Find a peak in given set of input if exists where an element is a peak if it is 
 ```text
 Algorithmic Complexity  
     Θ(n)
-
-Input Size 1000000 :
-![picture](img/peak1D-Time.png)
 ```
+Input Size 1000000 :
+
+![Alt text](img/peak1D-Time.png?raw=true "Peak 1D Solution")
+
 
 - 2 Solution
   - This is a more efficient solution using Divide and Conquer Approach.
@@ -29,7 +30,9 @@ Input Size 1000000 :
 ```text
 Algorithmic Complexity  
     Θ(log2(n))
+```
 
 Input Size 1000000 :
-![picture](img/peak1D-DAC-Time.png)
-```
+
+![Alt text](img/peak1D-DAC-Time.png?raw=true "Peak1D DNC")
+
