@@ -20,8 +20,8 @@ Algorithmic Complexity
     Θ(n)
 
 Input Size 1000000 :
-![picture](img/peak1D-Time.png)
 ```
+![picture](img/peak1D-Time.png)
 
 - 2 Solution
   - This is a more efficient solution using Divide and Conquer Approach.
@@ -31,8 +31,9 @@ Algorithmic Complexity
     Θ(log2(n))
 
 Input Size 1000000 :
-![picture](img/peak1D-DAC-Time.png)
 ```
+![picture](img/peak1D-DAC-Time.png)
+
 
 ### Solutions for 2D Peak Finder Problem
 
@@ -47,7 +48,7 @@ Input Size 1000000 :
         Algorithmic Complexity 
             Θ(nm)       where n is number of rows and m is number of columns
                         if number of rows and columns are same then : m=n
-            Θ(n2)
+            Θ(n^2)
         ```
         &nbsp;
         
