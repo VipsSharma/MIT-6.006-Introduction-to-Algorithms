@@ -39,7 +39,9 @@ Input Size 1000000 :
 -   **Greedy Ascent Algorithm** - The Algorithm states that ***" it selects a particular element to start with. Then it begins traversing across the array, by selecting the neighbour with higher value. If there is no neighbour with a higher value than the current element, it just returns the current element.***
     
     * Solution 1 :
+    
         * This is the Solution to the 2D Peak finder problem using Greedy Ascent Algorithm. 
+        
         &nbsp;
         ``` text        
         Algorithmic Complexity 
@@ -48,23 +50,26 @@ Input Size 1000000 :
             Θ(n2)
         ```
         &nbsp;
+        
     * Solution 2 :
-        * This is a modificatio  of the ***Greedy Ascent Algorithm*** where instead of selecting any neighbour element that is greater then the selected element we choose the element that is greatest of all the neighbouring elements of the selected element.
+    
+        * This is a modification  of the ***Greedy Ascent Algorithm*** where instead of selecting any neighbour element that is greater then the selected element we choose the element that is greatest of all the neighbouring elements of the selected element.
+        
         **Better Performance compared with Greedy Ascent Algorithm Solution**
-        &nbsp;
+        <br />        
         Input :
         
-            ![Alt text](img/2D Array.png?raw=true "Peak 2D Input")
-        &nbsp;
+            ![Alt text](img/2D\ Array.png?raw=true "Peak 2D Input")
+        <br /> 
         Greedy Ascent Algorithm :
         
-            ![Alt text](img/2D Greedy Ascent Algorithm.png?raw=true "Traversal Greedy Ascent ")
-        &nbsp;
+            ![Alt text](img/2D\ Greedy\ Ascent\ Algorithm.png?raw=true "Traversal Greedy Ascent ")
+        <br /> 
             ![Alt text](img/2D-Greedy-Time.png?raw=true "Greedy Ascent Algorithm Time")
-        &nbsp;
+        <br /> 
         Greedy Ascent Algorithm Improved Version:
         
-            ![Alt text](img/2D Greedy Ascent Algorithm Improved.png?raw=true "Traversal Greedy Ascent ")
-        &nbsp;
+            ![Alt text](img/2D\ Greedy\ Ascent\ Algorithm\ Improved.png?raw=true "Traversal Greedy Ascent ")
+        <br /> 
             ![Alt text](img/2D-Greedy-Improved-Time.png?raw=true "Greedy Ascent Algorithm Time")
-        &nbsp;
+        <br /> 
