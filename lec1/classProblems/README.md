@@ -79,3 +79,7 @@ Input Size 1000000 :
         
          ![Alt text](img/2D-Greedy-Improved-Time.png?raw=true "Greedy Ascent Algorithm Time")
         <br /> 
+    
+    * Solution 3 :
+  
+        * This is the solution implemented using the Divide and Conquer approach. 
