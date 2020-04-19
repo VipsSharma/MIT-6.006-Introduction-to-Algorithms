@@ -48,7 +48,7 @@ Input Size 1000000 :
         Algorithmic Complexity 
             Θ(nm)       where n is number of rows and m is number of columns
                         if number of rows and columns are same then : m=n
-            Θ(n2)
+            Θ(n^2)
         ```
         &nbsp;
         
