@@ -57,19 +57,24 @@ Input Size 1000000 :
         
         **Better Performance compared with Greedy Ascent Algorithm Solution**
         <br />        
-        Input :
+        **Input :**
         
-            ![Alt text](img/2D-Array.png?raw=true "Peak 2D Input")
-        <br /> 
-        Greedy Ascent Algorithm :
+         ![Alt text](img/2D-Array.png?raw=true "Peak 2D Input")
         
-            ![Alt text](img/2D-Greedy-Ascent-Algorithm.png?raw=true "Traversal Greedy Ascent ")
         <br /> 
-            ![Alt text](img/2D-Greedy-Time.png?raw=true "Greedy Ascent Algorithm Time")
-        <br /> 
-        Greedy Ascent Algorithm Improved Version:
         
-            ![Alt text](img/2D-Greedy-Ascent-Algorithm-Improved.png?raw=true "Traversal Greedy Ascent ")
+        **Greedy Ascent Algorithm :**
+        
+         ![Alt text](img/2D-Greedy-Ascent-Algorithm.png?raw=true "Traversal Greedy Ascent ")
+        <br />
+        
+         ![Alt text](img/2D-Greedy-Time.png?raw=true "Greedy Ascent Algorithm Time")
         <br /> 
-            ![Alt text](img/2D-Greedy-Improved-Time.png?raw=true "Greedy Ascent Algorithm Time")
+        
+        **Greedy Ascent Algorithm Improved Version:**
+        
+         ![Alt text](img/2D-Greedy-Ascent-Algorithm-Improved.png?raw=true "Traversal Greedy Ascent ")
+        <br /> 
+        
+         ![Alt text](img/2D-Greedy-Improved-Time.png?raw=true "Greedy Ascent Algorithm Time")
         <br /> 
